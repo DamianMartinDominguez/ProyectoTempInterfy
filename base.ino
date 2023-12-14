@@ -23,8 +23,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Fibertel WiFi569 2.4GHz";
-char pass[] = "0043340161";
+char ssid[] = "interfy-SPTI";
+char pass[] = "interfy5PT1";
 
 BlynkTimer timer;
 
